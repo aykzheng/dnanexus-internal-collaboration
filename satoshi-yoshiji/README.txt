@@ -1,2 +1,2 @@
 Hello world!
-Hope you have a good day.
+This is a DNAnexus internal collaboration github page.
